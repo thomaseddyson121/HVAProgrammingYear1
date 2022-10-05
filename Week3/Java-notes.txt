@@ -1,0 +1,4 @@
+Java notes
+
+To write inline use: Use System.out.print rather than System.out.println
+
